@@ -23,8 +23,12 @@ data/ → Contém os arquivos de dados.
 images/ → Guarda as imagens geradas.
 
 🛠 Tecnologias Utilizadas
+
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
 
