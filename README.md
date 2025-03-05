@@ -17,9 +17,13 @@ pip install -r requirements.txt
 python main.py
 
 📂 Estrutura do Projeto
+
 main.py → Gera as análises e gráficos.
+
 requirements.txt → Dependências do projeto.
+
 data/ → Contém os arquivos de dados.
+
 images/ → Guarda as imagens geradas.
 
 🛠 Tecnologias Utilizadas
