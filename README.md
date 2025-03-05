@@ -20,7 +20,6 @@ python main.py
 
 main.py → Gera as análises e gráficos.
 
-requirements.txt → Dependências do projeto.
 
 data/ → Contém os arquivos de dados.
 
